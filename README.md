@@ -21,7 +21,8 @@
 |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/ReorderableListView.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/RichText.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/SelectableText.gif) 
 |SizedBox	|Slidable		|SliverAppBar
 |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/SizedBox.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Slidable.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/SliverAppBar.gif) 
-
+|StreamBuilder	|Table		|ToggleButtons
+|	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/StreamBuilder.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Table.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/ToggleButtons.gif) 
 
 
 
