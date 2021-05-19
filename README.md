@@ -4,6 +4,6 @@
 
 |AlertDialog	|AnimatedContainer		|AnimatedList		|
 |:------------:|:------------:|:-------------:|
-|	[![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AlertDialog.gif)]
-[![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedContainer.gif)]
-[![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedList.gif)]
+|![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AlertDialog.gif)
+![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedContainer.gif)
+![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedList.gif)
