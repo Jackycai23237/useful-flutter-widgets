@@ -17,6 +17,12 @@
 |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/FractionallySizedBox.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Hero.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/InteractiveViewer.gif) 
 |LimitedBox	|ListWheelScrollView		|OpenContainer
 |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/LimitedBox.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/ListWheelScrollView.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/OpenContainer.gif) 
+|ReorderableListView	|RichText		|SelectableText
+|	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/ReorderableListView.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/RichText.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/SelectableText.gif) 
+|SizedBox	|Slidable		|SliverAppBar
+|	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/SizedBox.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Slidable.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/SliverAppBar.gif) 
+
+
 
 
 
