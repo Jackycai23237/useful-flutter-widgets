@@ -13,4 +13,7 @@
 |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Drawer.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/DraggableScrollableSheet.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Drawer.gif) 
 |ExpansionPanel	|FadeInImage		|FittedBox
 |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/ExpansionPanel.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/FadeInImage.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/FittedBox.gif) 
+|FractionallySizedBox	|Hero		|InteractiveViewer
+|	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/FractionallySizedBox.gif) |	![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/Hero.gif) | ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/InteractiveViewer.gif) 
+
 
