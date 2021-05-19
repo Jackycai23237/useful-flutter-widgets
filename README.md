@@ -2,6 +2,8 @@
 介绍一些常用的flutter小部件
 
 
-![image](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/ExpansionPanel.gif)
-
-ExpamsionPanel
+|AlertDialog	|AnimatedContainer		|AnimatedList		|
+|:------------:|:------------:|:-------------:|
+|	[![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AlertDialog.gif)]
+[![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedContainer.gif)]
+[![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedList.gif)]
