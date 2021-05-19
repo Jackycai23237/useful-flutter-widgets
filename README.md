@@ -2,9 +2,10 @@
 介绍一些常用的flutter小部件
 
 
-|AlertDialog
+|AlertDialog	|AnimatedContainer		|AnimatedList		|
+|:------------:|:------------:|:-------------:|
 |![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AlertDialog.gif)
-|AnimatedContainer
+
 ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedContainer.gif)
-|AnimatedList
+
 ![](https://github.com/Jackycai23237/useful-flutter-widgets/blob/main/gif/AnimatedList.gif)
